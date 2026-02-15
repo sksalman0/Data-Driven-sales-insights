@@ -58,7 +58,7 @@ This project demonstrates how forecasting models support data-driven retail deci
 ---
 
 ### 🔹 Model Performance Comparison (RMSE)
-![Model Comparison](images/comparision.pngimages/comparision.png)
+![Model Comparison](images/comparision.png)
 
 ---
 
