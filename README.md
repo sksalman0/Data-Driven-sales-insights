@@ -43,17 +43,17 @@ This project demonstrates how forecasting models support data-driven retail deci
 ## 📊 Key Visualizations
 
 ### 🔹 Total Sales Trend
-![Total Sales Trend](images/total sales.png)
+![Total Sales Trend](images/totalsales.png)
 
 ---
 
 ### 🔹 Prophet Forecast (Next 30 Days)
-![Seasonal Decomposition](images/forcasting using prophet.png)
+![Seasonal Decomposition](images/prophet.png)
 
 ---
 
 ### 🔹 XGBoost Forecast (Next 30 Days)
-![Prophet Forecast](images/forcasrting using XGBoost.png)
+![Prophet Forecast](images/XGBoost.png)
 
 ---
 
